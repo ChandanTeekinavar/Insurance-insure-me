@@ -1,8 +1,14 @@
-# star-agile-insurance-project
+This is an Insurance Domain Project named insure-me. 
 
-This project will help you to understand various concept related to Insurace domain. Please read the Insurace-domain.pdf to get more functional knowledge on 
-Insurace domain. 
+In this project I have used Following tools:-
 
-This project front is based on simple HTML, CSS and Angular Js ad Backend is Java Spring Boot.
+Git - For version control for tracking changes in the code files
+Jenkins - For continuous integration and continuous deployment
+Docker - For deploying containerized applications
+Ansible - Configuration management tools
+Selenium - For automating tests on the deployed web application
+AWS : For creating ec2 machines as servers and deploy the web application.
+
+
 
 In order to run the application use port 8081..
